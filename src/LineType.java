@@ -1,0 +1,6 @@
+public enum LineType {
+  VERTICAL,
+  HORIZONTAL,
+  LEFT_DIAGONAL,
+  RIGHT_DIAGONAL;
+}
