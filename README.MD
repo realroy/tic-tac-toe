@@ -1,4 +1,4 @@
-# TIC-TAC_TOE
+# TIC-TAC-TOE
 Ordinary tic-tac-toe written in java.
 ## Feature
  - **Sample rule:** The player who succeeds in placing five of their marks in a horizontal, vertical, or diagonal row wins the game. 

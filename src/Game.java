@@ -13,7 +13,7 @@ class Game {
     board = new Board(9);
     player = new Player[]{
         new Player("player 1", new Symbol(" X ")),
-        new Player("player 1", new Symbol(" X "))
+        new Player("player 2", new Symbol(" O "))
     };
     reader = new BufferedReader(new InputStreamReader(System.in));
   }
